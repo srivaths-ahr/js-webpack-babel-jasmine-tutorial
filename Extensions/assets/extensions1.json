@@ -1,0 +1,64 @@
+{
+    "extensions": [
+        {
+            "name": "Disconnect",
+            "id": "jeoacafpbcihiomhlakheieifhpjdfeo",
+            "src": "app/images/icon128.png"
+        },
+        {
+            "name": "DuckDuckGo Privacy Essentials",
+            "id": "bkdgflcldnnnapblkhphbgpggdiikppg",
+            "src": "img/logo-small.svg"
+        },
+        {
+            "name": "Fingerprint Spoofing",
+            "id": "ljdekjlhpjggcjblfgpijbkmpihjfkni",
+            "src": "cts.js"
+        },
+        {
+            "name": "Font Fingerprint Defender",
+            "id": "fhkphphbadjkepgfljndicmgdlndmoke",
+            "src": "data/icons/128.png"
+        },
+        {
+            "name": "Privacy Badger",
+            "id": "fhkphphbadjkepgfljndicmgdlndmoke",
+            "src": "icons/badger-128.png"
+        },
+        {
+            "name": "Script Safe",
+            "id": "oiigbmnaadbkfbmpbfijlflahbdbdgdf",
+            "src": "icons/badger-128.png"
+        },
+        {
+            "name": "WebGL Fingerprint Defender",
+            "id": "olnbjpaejebpnokblkepbphhembdicik",
+            "src": "icons/badger-128.png"
+        },
+        {
+            "name": "Adblock Plus",
+            "id": "cfhdojbkjhnklbpkdaibdccddilifddb",
+            "src": "icons/badger-128.png"
+        },
+        {
+            "name": "Adblock Ultimate",
+            "id": "ohahllgiabjaoigichmmfljhkcfikeof",
+            "src": "icons/badger-128.png"
+        },
+        {
+            "name": "AudioContext Fingerprint Defender",
+            "id": "pcbjiidheaempljdefbdplebgdgpjcbe",
+            "src": "icons/badger-128.png"
+        },
+        {
+            "name": "Canvas blocker",
+            "id": "nomnklagbgmgghhjidfhnoelnjfndfpd",
+            "src": "icons/badger-128.png"
+        },
+        {
+            "name": "Canvas fingerprint defender",
+            "id": "lanfdkkpgfjfdikkncbnojekcppdebfp",
+            "src": "icons/badger-128.png"
+        }
+    ]
+}

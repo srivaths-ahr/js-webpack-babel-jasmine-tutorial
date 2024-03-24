@@ -1,0 +1,40 @@
+.centered-image{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.header-below-image {
+    text-align: center;
+    margin-top: 20;
+}
+black-bordered-table
+.centered-table {
+    display: flex;
+    justify-content: center;
+}
+
+.header-below-image,
+.black-bordered-table {
+    font-family: 'Roboto', sans-serif;
+}
+
+.black-bordered-table {
+    width: 90%;
+}
+
+.black-bordered-table,
+.black-bordered-table td,
+.black-bordered-table th {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 15px;
+}
+
+.green-text {
+    color: green;
+}
+
+.red-text {
+    color: red;
+}
